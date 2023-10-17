@@ -46,7 +46,7 @@ Prepared the deployment environments.
 Participated in code reviews and pair programming sessions.
 
 Sendchamp - Sendchamp is Twilio for Africa. During my time here,
-I optimised various services and reduced response times of some services by as much as 60%. I employed concurrency to make the services more erfficient. I developed new features and increased the reliability of the services. I led and collaborated with other engineers to meet up with the demands of the business
+I optimised various services and reduced response times of some services by as much as 60%. I employed concurrency to make the services more efficient. I developed new features and increased the reliability of the services. I led and collaborated with other engineers to meet up with the demands of the business
 
 Pipeops -Pipeops is a software-as-a-service platform that makes deployment, managing
 and monitoring of your applications on your AWS account easy. With Pipeops,
