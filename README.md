@@ -24,8 +24,7 @@ Hello, I'm Sayo. I build software!
 </p>
    
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayopaul&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayopaul&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 Sayo Paul | GitHub Profile
 👋 I'm Sayo Paul, a dedicated software engineer with a passion for crafting sophisticated solutions and expanding the horizons of technology. You've landed on my GitHub profile, and I warmly welcome you!
