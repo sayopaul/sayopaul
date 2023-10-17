@@ -134,6 +134,9 @@ Abisayo Paul Ademola <a href="https://www.linkedin.com/in/ademola-abisayo-paul/"
 <a href="https://github.com/fuadop/sendchamp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fuadop&repo=sendchamp" />
 </a>
+<a href="https://github.com/sayopaul/paystack-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sayopaul&repo=paystack-go" />
+</a>
 <a href="https://github.com/unicodeveloper/laravel-paystack">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=unicodeveloper&repo=laravel-paystack&theme=buefy" />
 </a>
