@@ -30,12 +30,15 @@ Sayo Paul | GitHub Profile
 👋 I'm Sayo Paul, a dedicated software engineer with a passion for crafting sophisticated solutions and expanding the horizons of technology. You've landed on my GitHub profile, and I warmly welcome you!
 
 About Me
+
 I bring 5+ years of experience to the world of software development, specializing in Golang, PHP, microservices architecture, and cloud-native applications. My years of software engineering have given me the opportunity to contribute to a variety of projects and collaborate with diverse teams.
 
 🔭 Current Focus
+
 Right now, I am focused on building clean and scalable Golang services that harness the power of microservices architecture.I excel in creating streamlined RESTful and gRPC-based APIs, harnessing the power of cloud platforms such as AWS and Google Cloud Platform (GCP). My most recent projects exemplify my dedication to remaining at the cutting edge of contemporary software development methodologies.
 
 🌟 Highlights
+
 REIPrintMail - I wrote a secure service that handled authentication, integrating with Supabase and Kong as an API gateway.
 Worked on numerous Golang utilities/services to improve the productivity of the team.
 Wrote API specs, tests and documentation for each service I worked on.
@@ -94,15 +97,20 @@ MySQL for the database.
 
 
 🚀 Interests
+
 I am passionate about the cloud and believe that in the future our entire lives would be based on it.
 Currently learning and doing as much as I can to be a part of that future !
 
 📫 Get in Touch
+
 Feel free to connect with me on LinkedIn or explore my repositories here on GitHub. If you're as excited about technology and innovation as I am, let's collaborate and create something incredible together.
 
-LinkedIn: Abisayo Paul Ademola <a href="https://www.linkedin.com/in/ademola-abisayo-paul/">
-  <img align="left" alt="Sayo Paul | Linkedin" width="21px" src="https://github.com/sayopaul/sayopaul.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
+LinkedIn: 
+
+Abisayo Paul Ademola <a href="https://www.linkedin.com/in/ademola-abisayo-paul/">
+  <img align="left" alt="Sayo Paul | Linkedin" width="21px" src="https://github.com/sayopaul/sayopaul/blob/main/assets/LinkedIn_icon.svg.png" />
 </a>
+
 ### Experience 
 <p>● Development of back-end components to integrate applications with web services.</p>
 <p>● Review code to validate structures, assess security and verify browser, device and operating system compatibility.</p>
@@ -120,7 +128,7 @@ LinkedIn: Abisayo Paul Ademola <a href="https://www.linkedin.com/in/ademola-abis
 #### Top Repositories
 
 
-<a href="https://github.com/sayopaul/paginationclass>
+<a href="https://github.com/sayopaul/paginationclass">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sayopaul&repo=paginationclass&theme=buefy" />
 </a>
 <a href="https://github.com/fuadop/sendchamp">
@@ -134,5 +142,5 @@ LinkedIn: Abisayo Paul Ademola <a href="https://www.linkedin.com/in/ademola-abis
 <br />
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/sayopaul">
 <a href="https://www.linkedin.com/in/ademola-abisayo-paul/">
-  <img align="right" alt="Haitham Rageh | Linkedin" width="21px" src="https://github.com/sayopaul/sayopaul.github.io/blob/main/assets/LinkedIn_icon.svg.png" />
+  <img align="right" alt="Sayo Paul | Linkedin" width="21px" src="https://github.com/sayopaul/sayopaul/blob/main/assets/LinkedIn_icon.svg.png" />
 </a>
