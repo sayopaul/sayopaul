@@ -9,7 +9,7 @@ Hello, I'm Sayo. I build software!
 
 - 💼 Software Engineer (Golang,PHP)
 
-- ❤️ I love writing Golang, and building cloud microservices on AWS and GCP
+- ❤️ I love writing Golang, and building cloud microservices on AWS, GCP and Azure
 
 - 💬 Ask me about anything [here](https://github.com/sayopaul/sayopaul/issues)
 <p float="left">
